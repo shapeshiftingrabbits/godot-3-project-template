@@ -1,2 +1,3 @@
 # Godot 3 specific ignores
 .import/
+build/*
